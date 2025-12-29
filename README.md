@@ -25,4 +25,87 @@ The business seeks to understand sales performance across store locations, time 
 
 ### Data Source 
 
-Sales Data: This the Primary Dataset use for this analysis """
+Sales Data: This the Primary Dataset use for this analysis "data/Coffee_Shop_Sales[1].csv"
+
+### Tools 
+
+-Microsoft Excel
+
+-Pivot Tables & Charts
+
+-Slicers
+
+-Interactive Dashboard Design
+
+### Data Cleaning 
+
+1. Data Import & Validation
+
+- Imported the raw CSV file into Excel using Data → Get Data → From Text/CSV
+
+- Verified column headers, data types, and row counts after import
+
+- Ensured numeric fields (sales, quantity, transaction values) were correctly recognized as numbers
+
+2. Handling Missing Values
+
+- Checked for missing or blank values across key fields such as transaction date, store location, product category, and revenue
+
+- Removed records with critical missing data that could impact analysis
+
+- Confirmed no null values remained in KPI-related columns
+
+3. Date & Time Formatting
+
+- Standardized date fields to a consistent date format
+
+- Extracted hour, day of week, and month from transaction timestamps to enable time-based analysis
+
+- Validated that all time values fell within expected business operating hours
+
+4. Data Consistency & Standardization
+
+- Ensured consistent naming for store locations (e.g., removing spelling variations and extra spaces)
+
+- Standardized product category names to prevent duplicate groupings
+
+- Removed leading and trailing spaces using Excel cleaning functions
+
+5. Data Accuracy Checks
+
+- Validated revenue calculations by cross-checking quantity × unit price where applicable
+
+- Reviewed outliers and extreme values to ensure they represented valid transactions
+
+- Confirmed totals aligned with expected business ranges
+
+6. Dataset Preparation
+
+- Converted the cleaned dataset into an Excel table for structured analysis
+
+- Used the cleaned data to build pivot tables, charts, and an interactive dashboard
+
+- Saved the final dataset and dashboard in separate folders for clarity and reproducibility
+
+### Key Insight 
+
+- June recorded the highest revenue (£166,486)
+
+- 10:00 AM accounted for over 80% of total transactions
+
+- Coffee generated over 90% of total revenue
+
+- Friday was the highest-performing day (£21,701)
+
+### Business Recommendation 
+
+Based on the analysis ,i recommend the following actions;
+
+- Optimize morning staffing and inventory
+
+- Introduce seasonal promotions
+
+- Reduce evening operational costs
+
+- Expand coffee-focused product strategy
+
