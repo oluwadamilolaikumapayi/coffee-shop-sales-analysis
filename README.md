@@ -25,4 +25,4 @@ The business seeks to understand sales performance across store locations, time 
 
 ### Data Source 
 
-Sales Data: This the Primary Dataset use for this analysis ""C:\Users\Oluwadamilola\Downloads\Coffee_Shop_Sales[1].csv"
+Sales Data: This the Primary Dataset use for this analysis """
