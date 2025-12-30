@@ -3,21 +3,21 @@
 
 ## Table of Contents
 
--[Project Overview](project-overview)
+- [Project Overview](#project-overview)
 
--[Business Problem](Business-Problem)
+- [Business Problem](#business-problem)
 
--[Project Objective](Project-Objective)
+- [Project Objective](#project-objective)
 
--[Data Source ](Data-Source)
+- [Data Source ](#data-source)
 
--[Tools](Tools)
+- [Tools](#tools)
 
--[Data Cleaning](Data-Cleaning)
+- [Data Cleaning](#data-cleaning)
 
--[Key Insight](Key-Insight)
+- [Key Insight](#key-insight)
 
--[Business Recommendations](Business-Recommendations)
+- [Business Recommendations](#business-recommendations)
 
 Analyzed multi-location coffee shop sales data to uncover revenue trends, peak transaction periods, and product performance. Built an interactive Excel dashboard using pivot tables, charts, and slicers to deliver actionable insights for improving staffing, inventory planning, and sales strategy across stores.
 
