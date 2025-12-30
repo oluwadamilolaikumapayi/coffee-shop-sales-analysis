@@ -1,4 +1,24 @@
 # Coffee-Shop-Sales-Analysis
+
+
+## Table of Contents
+
+-[Project Overview](project-overview)
+
+-[Business Problem](Business-Problem)
+
+-[Project Objective](Project-Objective)
+
+-[Data Source ](Data-Source)
+
+-[Tools](Tools)
+
+-[Data Cleaning](Data-Cleaning)
+
+-[Key Insight](Key-Insight)
+
+-[Business Recommendations](Business-Recommendations)
+
 Analyzed multi-location coffee shop sales data to uncover revenue trends, peak transaction periods, and product performance. Built an interactive Excel dashboard using pivot tables, charts, and slicers to deliver actionable insights for improving staffing, inventory planning, and sales strategy across stores.
 
 
