@@ -10,6 +10,10 @@ such as store location, time (hourly), day of the week, month, and product categ
 It also highlights the Top 10 best-selling products, enabling stakeholders to quickly
 identify high-performing items and underperforming areas.
 
+
+<img width="1552" height="1147" alt="coffee _sales_dashboard " src="https://github.com/user-attachments/assets/8baad05c-dba1-4d12-bf88-6c5227ce652f" />
+
+
 ### Business Problem 
 
 The business seeks to understand sales performance across store locations, time periods, and product categories to optimize revenue and operational efficiency.
@@ -91,11 +95,21 @@ Sales Data: This the Primary Dataset use for this analysis "data/Coffee_Shop_Sal
 
 - June recorded the highest revenue (£166,486)
 
+<img width="1281" height="209" alt="q1" src="https://github.com/user-attachments/assets/3bcde7b0-2699-4d98-9965-3878d85afe2f" />
+
 - 10:00 AM accounted for over 80% of total transactions
+
+<img width="554" height="305" alt="q2 " src="https://github.com/user-attachments/assets/ecda47cf-8447-4b22-8265-a8efe5ecbb27" />
 
 - Coffee generated over 90% of total revenue
 
+<img width="544" height="363" alt="q3" src="https://github.com/user-attachments/assets/ae168ccd-a4c7-4662-a33a-1a68657c9d36" />
+
+
 - Friday was the highest-performing day (£21,701)
+
+<img width="563" height="349" alt="q4" src="https://github.com/user-attachments/assets/cd2b09c8-105b-451d-ab0b-fd06e0938d7f" />
+
 
 ### Business Recommendation 
 
